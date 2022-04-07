@@ -1,4 +1,4 @@
-## Welcome to Seagulls
+## Welcome to Seagull
 
 You can use the [editor on GitHub](https://github.com/mat-support/seagull/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
